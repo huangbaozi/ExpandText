@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandText">
+        <attr name="show_width" format="dimension"/>
+        <attr name="default_open" format="boolean"/>
+        <attr name="close_end_text" format="string"/>
+        <attr name="close_end_text_color" format="color"/>
+        <attr name="open_end_text" format="string"/>
+        <attr name="open_end_text_color" format="color"/>
+        <attr name="ellipse_text" format="string"/>
+        <attr name="allow_anim" format="boolean"/>
+        <attr name="anim_during" format="integer"/>
+        <attr name="limit_line" format="integer"/>
+    </declare-styleable>
+</resources>

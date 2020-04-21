@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandText">
+        <attr name="show_width" format="integer"/>
+        <attr name="is_open" format="boolean"/>
+        <attr name="close_end_text" format="string"/>
+        <attr name="open_end_text" format="string"/>
+        <attr name="ellipse_text" format="string"/>
+        <attr name="needAnim" format="boolean"/>
+        <attr name="anim_during" format="integer"/>
+    </declare-styleable>
+</resources>

@@ -1,2 +1,3 @@
 rootProject.name='ExpandText'
 include ':app'
+include ':library'
