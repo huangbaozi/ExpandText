@@ -1,4 +1,4 @@
-package com.baozi.expandtext;
+package com.baozi.expandlibrary;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;

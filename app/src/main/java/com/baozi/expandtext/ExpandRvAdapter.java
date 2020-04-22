@@ -9,6 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.baozi.expandlibrary.ExpandText;
+
 import java.util.ArrayList;
 
 import butterknife.BindView;

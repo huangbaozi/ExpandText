@@ -13,7 +13,7 @@
         android:textSize="20sp"
         android:gravity="center_horizontal" />
 
-    <com.baozi.expandtext.ExpandText
+    <com.baozi.expandlibrary.ExpandText
         android:id="@+id/content_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

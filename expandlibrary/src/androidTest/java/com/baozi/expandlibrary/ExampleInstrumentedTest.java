@@ -1,4 +1,4 @@
-package com.baozi.expandtext;
+package com.baozi.expandlibrary;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.baozi.expandtext.test", appContext.getPackageName());
+        assertEquals("com.baozi.expandlibrary.test", appContext.getPackageName());
     }
 }

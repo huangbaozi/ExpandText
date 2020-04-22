@@ -1,4 +1,4 @@
-package com.baozi.expandtext;
+package com.baozi.expandlibrary;
 
 import org.junit.Test;
 
